@@ -71,3 +71,4 @@ crashlytics-build.properties
 
 
 /test.app
+.DS_Store
