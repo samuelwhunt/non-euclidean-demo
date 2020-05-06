@@ -118,11 +118,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 3743597651704331074}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5c4a0ae8b25b44a0089c76ffd78939ec, type: 3}
+  m_Script: {fileID: 11500000, guid: b19009862144a40cd929fdafb3361128, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   linkedPortal: {fileID: 0}
-  screen: {fileID: 3438419960765059613}
+  screen: {fileID: 0}
   recursionLimit: 5
   nearClipOffset: 0.05
   nearClipLimit: 0.2
@@ -194,7 +194,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4687913276525833559}
-  m_Mesh: {fileID: -1875780437015597444, guid: f41802e248f2e42178e949a42908c5b4, type: 3}
+  m_Mesh: {fileID: -1875780437015597444, guid: 3d4fb05989bdd4460b60d2cd397694b5, type: 3}
 --- !u!23 &3438419960765059613
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -275,7 +275,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5858256972162738305}
-  m_Mesh: {fileID: -6360558719573625917, guid: f41802e248f2e42178e949a42908c5b4, type: 3}
+  m_Mesh: {fileID: -6360558719573625917, guid: 3d4fb05989bdd4460b60d2cd397694b5, type: 3}
 --- !u!23 &5291839106125732957
 MeshRenderer:
   m_ObjectHideFlags: 0
