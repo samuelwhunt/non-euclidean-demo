@@ -277,6 +277,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Red Portal
       objectReference: {fileID: 0}
+    - target: {fileID: 3743597651704331078, guid: ce71ddc64223549ed8fc19f77f5948b2,
+        type: 3}
+      propertyPath: linkedPortal
+      value: 
+      objectReference: {fileID: 1458167714}
     - target: {fileID: 7428666099423632018, guid: ce71ddc64223549ed8fc19f77f5948b2,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -1141,6 +1146,18 @@ CapsuleCollider:
   m_Height: 10
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1458167714 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3743597651704331078, guid: ce71ddc64223549ed8fc19f77f5948b2,
+    type: 3}
+  m_PrefabInstance: {fileID: 534234730}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b19009862144a40cd929fdafb3361128, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1689308726
 GameObject:
   m_ObjectHideFlags: 0
